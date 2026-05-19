@@ -1,0 +1,14 @@
+D:\Programming\C#\less2\hm1\UDPNetworking\Simple UDP Socket Server\bin\Debug\net10.0\Simple UDP Socket Server.exe
+D:\Programming\C#\less2\hm1\UDPNetworking\Simple UDP Socket Server\bin\Debug\net10.0\Simple UDP Socket Server.deps.json
+D:\Programming\C#\less2\hm1\UDPNetworking\Simple UDP Socket Server\bin\Debug\net10.0\Simple UDP Socket Server.runtimeconfig.json
+D:\Programming\C#\less2\hm1\UDPNetworking\Simple UDP Socket Server\bin\Debug\net10.0\Simple UDP Socket Server.dll
+D:\Programming\C#\less2\hm1\UDPNetworking\Simple UDP Socket Server\bin\Debug\net10.0\Simple UDP Socket Server.pdb
+D:\Programming\C#\less2\hm1\UDPNetworking\Simple UDP Socket Server\obj\Debug\net10.0\Simple UDP Socket Server.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\C#\less2\hm1\UDPNetworking\Simple UDP Socket Server\obj\Debug\net10.0\Simple UDP Socket Server.AssemblyInfoInputs.cache
+D:\Programming\C#\less2\hm1\UDPNetworking\Simple UDP Socket Server\obj\Debug\net10.0\Simple UDP Socket Server.AssemblyInfo.cs
+D:\Programming\C#\less2\hm1\UDPNetworking\Simple UDP Socket Server\obj\Debug\net10.0\Simple UDP Socket Server.csproj.CoreCompileInputs.cache
+D:\Programming\C#\less2\hm1\UDPNetworking\Simple UDP Socket Server\obj\Debug\net10.0\Simple UDP Socket Server.dll
+D:\Programming\C#\less2\hm1\UDPNetworking\Simple UDP Socket Server\obj\Debug\net10.0\refint\Simple UDP Socket Server.dll
+D:\Programming\C#\less2\hm1\UDPNetworking\Simple UDP Socket Server\obj\Debug\net10.0\Simple UDP Socket Server.pdb
+D:\Programming\C#\less2\hm1\UDPNetworking\Simple UDP Socket Server\obj\Debug\net10.0\Simple UDP Socket Server.genruntimeconfig.cache
+D:\Programming\C#\less2\hm1\UDPNetworking\Simple UDP Socket Server\obj\Debug\net10.0\ref\Simple UDP Socket Server.dll
